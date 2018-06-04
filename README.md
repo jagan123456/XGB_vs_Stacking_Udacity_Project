@@ -4,10 +4,8 @@
 
 **Note**
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+This project is uses the UCI US census data from 1994/95 (see the project report for the link and census-income.csv for the dataset used). The target feature is a binary prediction of whether each person earns more or less than $50k.
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
+The Project_Report.docx outlines the entire project and should be read simultaneously whilst following the Capstone_Project.ipynb notebook.
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
-
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+The purpose of the project is to compare a benchmark XGBoost model against a stacking classifier to see which produces a better AUC. The main objective is to better understand stacking classifiers and how they work/compare to a single machine learning modelling technique as opposed to focussing on optimizing the AUC. This is outlined further in the project report.
