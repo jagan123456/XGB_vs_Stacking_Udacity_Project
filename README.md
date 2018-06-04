@@ -2,7 +2,7 @@
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
 
-**Note**
+
 
 This project is uses the UCI US census data from 1994/95 (see the project report for the link and census-income.csv for the dataset used). The target feature is a binary prediction of whether each person earns more or less than $50k.
 
